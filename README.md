@@ -1,7 +1,7 @@
 Olá eu me chamo "Everton"(tonh)
 
 
-- 👋 Hi, I’m @tonh01
+- 👋 Estudando back end:
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
